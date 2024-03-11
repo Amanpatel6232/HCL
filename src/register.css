@@ -1,0 +1,45 @@
+.register0{
+    width: 100%;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.registerimg{
+    width: 50%;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.register1{
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 100px;
+}
+.register1 form{
+    border:1.5px #43c4d8 solid;
+    border-radius: 15px;;
+    box-shadow: 0 0 6px gray;
+    padding: 25px;
+}
+.register1 input{
+    /* width: 350px; */
+    border-style: none none solid none;
+    border-color: rgb(197, 195, 195);
+    border-width: 1px;
+}
+.register1 select{
+    width: 420px;
+    border-style: none none solid none;
+    border-color: rgb(197, 195, 195);
+    border-width: 1px;
+}
+form button{
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px 100px 10px 100px;
+    border: none;
+    color: white;
+    background-color: #43c4d8;
+    border-radius: 8px;
+}

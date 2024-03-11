@@ -1,0 +1,19 @@
+.about{
+    display: flex;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+#about2{
+    text-align: center;
+    color:rgb(98, 98, 98)
+}
+#about3{
+    color: grey;
+    padding-left: 150px ;
+    padding-right: 150px;
+}
+.about1{
+    /* padding-top: 50px; */
+    
+    padding-left: 50px;
+}

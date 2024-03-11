@@ -1,0 +1,21 @@
+.home{
+    width: 100%;
+}
+.home2{
+    display: flex;
+    padding: 30px;
+}
+.home21{
+    padding-top: 140px;
+    padding-right: 100px;
+}
+.home21 h1{
+    font-weight: bolder;
+}
+.home21 p{
+    color: grey;
+}
+#h1{
+    color: #43c4d8;
+    font-weight: bolder;
+}
