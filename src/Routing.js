@@ -27,6 +27,7 @@ function Routing()
                 <Route path="contact" element={<Contact></Contact>}></Route>
                 <Route path="courses" element={<Courses></Courses>}></Route>
                 <Route path="mern" element={<Mern></Mern>}></Route>
+                <Route path="courses/mern" element={<Mern></Mern>}></Route>
                 <Route path="mern/html" element={<Html></Html>}></Route>
                 <Route path="mern/css" element={<Css></Css>}></Route>
                 <Route path="mern/javascript" element={<Javascript></Javascript>}></Route>
