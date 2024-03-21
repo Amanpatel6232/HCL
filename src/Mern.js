@@ -10,37 +10,37 @@ function Mern()
       <div className="mern1" >
         <h1>HTML</h1>
         <br></br>
-        <Link to="html">View Syllabus</Link>
+        <Link to="mern/html">View Syllabus</Link>
       </div>
 
       <div  className="mern1">
         <h1>CSS</h1>
         <br></br>
-        <Link to="css">View Syllabus</Link>
+        <Link to="mern/css">View Syllabus</Link>
       </div>
 
       <div  className="mern1">
         <h1>Javascript</h1>
         <br></br>
-        <Link to="javascript">View Syllabus</Link>
+        <Link to="mern/javascript">View Syllabus</Link>
       </div>
 
       <div  className="mern1">
         <h1>JQuery</h1>
         <br></br>
-        <Link to="jquery">View Syllabus</Link>
+        <Link to="mern/jquery">View Syllabus</Link>
       </div>
 
       <div className="mern1">
         <h1>React JS</h1>
         <br></br>
-        <Link to="react">View Syllabus</Link>
+        <Link to="mern/react">View Syllabus</Link>
       </div>
 
       <div  className="mern1">
         <h1>Node JS</h1>
         <br></br>
-        <Link to="node">View Syllabus</Link>
+        <Link to="mern/node">View Syllabus</Link>
       </div>
     </div>
     </Container>

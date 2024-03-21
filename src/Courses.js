@@ -16,7 +16,7 @@ function Courses()
             <img src={mern}></img>
             <div className="info">
               <h1>MERN Full Stack</h1>
-              <a href="mern" className="btn">View Detail</a>
+              <a href="courses/mern" className="btn">View Detail</a>
             </div>
            </div>
 
